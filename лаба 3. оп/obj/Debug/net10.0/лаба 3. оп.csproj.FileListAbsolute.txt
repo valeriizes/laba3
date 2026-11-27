@@ -1,0 +1,15 @@
+C:\Users\lerak\Documents\хайп\уник\основы проги\лаба 3. оп\лаба 3. оп\bin\Debug\net10.0\лаба 3. оп.exe
+C:\Users\lerak\Documents\хайп\уник\основы проги\лаба 3. оп\лаба 3. оп\bin\Debug\net10.0\лаба 3. оп.deps.json
+C:\Users\lerak\Documents\хайп\уник\основы проги\лаба 3. оп\лаба 3. оп\bin\Debug\net10.0\лаба 3. оп.runtimeconfig.json
+C:\Users\lerak\Documents\хайп\уник\основы проги\лаба 3. оп\лаба 3. оп\bin\Debug\net10.0\лаба 3. оп.dll
+C:\Users\lerak\Documents\хайп\уник\основы проги\лаба 3. оп\лаба 3. оп\bin\Debug\net10.0\лаба 3. оп.pdb
+C:\Users\lerak\Documents\хайп\уник\основы проги\лаба 3. оп\лаба 3. оп\obj\Debug\net10.0\лаба 3. оп.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lerak\Documents\хайп\уник\основы проги\лаба 3. оп\лаба 3. оп\obj\Debug\net10.0\лаба 3. оп.AssemblyInfoInputs.cache
+C:\Users\lerak\Documents\хайп\уник\основы проги\лаба 3. оп\лаба 3. оп\obj\Debug\net10.0\лаба 3. оп.AssemblyInfo.cs
+C:\Users\lerak\Documents\хайп\уник\основы проги\лаба 3. оп\лаба 3. оп\obj\Debug\net10.0\лаба 3. оп.csproj.CoreCompileInputs.cache
+C:\Users\lerak\Documents\хайп\уник\основы проги\лаба 3. оп\лаба 3. оп\obj\Debug\net10.0\лаба 3. оп.dll
+C:\Users\lerak\Documents\хайп\уник\основы проги\лаба 3. оп\лаба 3. оп\obj\Debug\net10.0\refint\лаба 3. оп.dll
+C:\Users\lerak\Documents\хайп\уник\основы проги\лаба 3. оп\лаба 3. оп\obj\Debug\net10.0\лаба 3. оп.pdb
+C:\Users\lerak\Documents\хайп\уник\основы проги\лаба 3. оп\лаба 3. оп\obj\Debug\net10.0\лаба 3. оп.genruntimeconfig.cache
+C:\Users\lerak\Documents\хайп\уник\основы проги\лаба 3. оп\лаба 3. оп\obj\Debug\net10.0\ref\лаба 3. оп.dll
+C:\Users\lerak\Documents\хайп\уник\основы проги\лаба 3. оп\лаба 3. оп\obj\Debug\net10.0\лаба 3. оп.csproj.Up2Date
